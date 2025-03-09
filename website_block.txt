@@ -1,0 +1,4 @@
+chat.openai.com
+www.chatgpt.com
+chat.com
+www.facebook.com
